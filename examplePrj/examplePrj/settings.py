@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'main.apps.MainConfig',
+    #'accout'앱 등록할 위치
 ]
 
 MIDDLEWARE = [
